@@ -21,7 +21,7 @@
  */
 package js;
 
-class Lib {
+class Kit {
 
 	////////// js-kit additions //////////
 
